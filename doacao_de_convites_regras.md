@@ -12,6 +12,8 @@ Fica proibido usar o tópico de terceiros para fazer anúncio de pedido, doaçã
 
 Os usuários deverão sempre informarem o endereço de email no tópico de doação ou pedido.
 
+Os doadores poderão definirem os requisitos necessários em seus tópicos para os usuários estarem qualificados a receberem os convites.
+
 Todos os usuário deverão fazer denúncias a moderação através de mensagens privadas sobre abusos, vendas e trocas de convite, ratio baixo ou qualquer outra situação que for incoerente ou prejudique os participantes da área sobretudo os padrinhos.
 
 É obrigação do convidado manter o seu status positivo no site para o qual foi convidado.
